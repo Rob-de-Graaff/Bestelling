@@ -1,0 +1,25 @@
+(Source opdr glashandel, houthandel, Schijventarief, sii webshop week 12)
+
+Class artikel
+String name
+String artikelnummer (ex:201901)
+Double price
+Datetime fabricagehaar
+
+Class form
+Input; listbox articles, listbox orders; numud amount; btn add, btn remove
+
+Int year = random.next(today.year-20, today.year)
+Foreach item in orderlist
+String id = Dict.max++.tostring("00") (glashandel orderIDlist/dict)
+
+Switch age
+Case (int age where 2<=age && age<3)
+Discount = 0.95
+
+If(age % 2 = 0;) discount = discount - 0.02
+
+
+
+git remote add origin https://github.com/Rob-de-Graaff/Bestelling.git
+git push -u origin master
